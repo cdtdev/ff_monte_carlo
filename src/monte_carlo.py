@@ -17,10 +17,9 @@ teams_to_play_off = 4
 #Order needs to be the same as team_names
 
 team_names = ['Kingsland Tough Bruddas','Schroedingers Cats','The Killer Brees','Deez Nuts 4 Prez','Oakeridge Overlords','College Hillbilly','Norwood Knuckles','West City Possums','Crazy Monkeys','Mount Thunderbolts','Southeast Bulls','Te Puke Thunder']
-home_teams = [1,2,5,7,11,12,3,4,6,8,9,10,1,2,5,7,11,12,3,4,6,8,9,10,3,4,6,8,9,10,1,2,5,7,11,12]
-away_teams = [10,3,4,9,6,8,5,12,1,11,2,7,8,10,9,6,4,3,11,1,2,7,12,5,1,7,5,2,11,12,9,4,8,3,10,6]
-current_wins = [3.006448,6.007683,4.006299,2.006146,2.005480,4.006237,5.006232,4.006407,3.006412,3.006093,3.006522,3.005857]
-
+home_teams = [3,4,6,8,9,10,1,2,5,7,11,12,3,4,6,8,9,10,3,4,6,8,9,10,1,2,5,7,11,12]
+away_teams = [5,12,1,11,2,7,8,10,9,6,4,3,11,1,2,7,12,5,1,7,5,2,11,12,9,4,8,3,10,6]
+current_wins = [3.007153,6.008344,5.007673,2.006870,3.006512,4.007109,6.007020,4.007222,3.007082,4.007003,4.007539,4.007405]
 
 ###ONLY CONFIGURE THE VALUES ABOVE
 
